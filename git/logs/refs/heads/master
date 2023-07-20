@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 78367bea6493dac1da7ca516260f03e0d0602ba5 Ilya Osipov <070809010@mail.ru> 1539172108 +0300	clone: from https://github.com/devmanorg/fiasko_bro
+78367bea6493dac1da7ca516260f03e0d0602ba5 a501e8bcfb28e51bd80c297e5adc7a784fdcf366 dvmn-tasks <devman-tasks@yandex.ru> 1541244829 +0300	commit: Update requirements.txt
+a501e8bcfb28e51bd80c297e5adc7a784fdcf366 1af8ef929617bdfa7847b3f196e94267d294d529 dvmn-tasks <devman-tasks@yandex.ru> 1541247027 +0300	commit: Deleted requirements
+1af8ef929617bdfa7847b3f196e94267d294d529 dfb8c30109f317c1e5b6d211e002fd148695809e AnnaKo <dvmn-tasks@yandex.ru> 1547811933 +0300	pull --no-rebase --progress origin: Fast-forward
